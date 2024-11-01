@@ -1,0 +1,8 @@
+7
+2345,Sam Sturtivant,14,15,14,77
+1212,Ron Herrema,14,17,18,66
+3724,Matt Thompson,19,11,15,81
+2983,Les Ferdinand,15,17,18,92
+9876,Lee Scott,17,11,16,99
+2344,Jo Hyde,6,15,10,55
+9384,Gareth Southgate,5,6,8,33
